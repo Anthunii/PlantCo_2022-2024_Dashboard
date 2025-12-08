@@ -31,3 +31,14 @@ A description of each table is as follows:
 Plant Co.’s gross profit has steadily declined from 2022 to 2024, with noticeable drops in the latter half of each year. While early-year demand briefly improves performance, it isn’t enough to offset consistent year-end declines. Product and country trends show variability, suggesting the issue is broad rather than tied to a single segment.
 
 ![Image](https://github.com/Anthunii/PlantCo_2022-2024_Dashboard/blob/f1cbb992b07c950fb4a5036b9f23750158b4c277/Screenshots/plantco-2022-2024-dashboard.jpg)
+
+# Insights Deep Dive
+### Category 1: Sales Quantity Analysis
+
+* **Average quantity sold is stable over time.** Across the analyzed periods, the mean quantity sold hovers around 1359 units, with minor seasonal fluctuations.
+  
+* **Sales are skewed toward lower quantities.** 75% of products sold fewer than 1,807 items per period, while only a small subset sold higher quantities. The top-selling products contribute a relatively small portion of total sales.
+  
+* **Sales and gross profit move together strongly.** With a correlation coefficient of 0.88, products with higher sales revenue consistently produce higher gross profit.
+  
+* **Certain products are consistently underperforming.** Analysis shows a cluster of SKUs below the quantity average, representing about 15% of products that consistently underperform and may need strategic attention.
